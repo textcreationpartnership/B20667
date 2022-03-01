@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Jews is altered, and their synagogue shut to all evil-walkers, or, A vindication of the Jewes from the false imputations laid upon them in a scurrilous pamphlet intituled, The case of the Jews stated, or, The Jews synagogue opened. / by Joseph Copley ...</title>
+            <author>Copley, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20667</idno>
+            <idno type="STC">Wing C6084</idno>
+            <idno type="EEBO-CITATION">18394170</idno>
+            <idno type="OCLC">ocm 18394170</idno>
+            <idno type="VID">206442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206442)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1630:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Jews is altered, and their synagogue shut to all evil-walkers, or, A vindication of the Jewes from the false imputations laid upon them in a scurrilous pamphlet intituled, The case of the Jews stated, or, The Jews synagogue opened. / by Joseph Copley ...</title>
+                  <author>Copley, Joseph.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Stained and slightly faded, with print show-through.</note>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Case of the Jevves stated.</term>
+               <term>Judaism --  Apologetic works.</term>
+               <term>Antisemitism --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206442:1" rendition="simple:additions"/>
+            <p>THE CASE OF The JEWS is Altered, AND Their Synagogue Shut To all Evil-WALKERS. OR, A VINDICATION OF THE JEWES From the falſe IMPUTATIONS laid upon them in a ſcurrilous PAMPHLET, INTITULED, <hi>The CASE of the JEWS Stated,</hi> OR, <hi>The JEWS SYNAGOG<g ref="char:V">Ʋ</g>E Opened.</hi>
+            </p>
+            <p>By <hi>Joſeph Copley,</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> printed for the AUTHOR, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:206442:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:206442:2"/>
+            <head>The Caſe of the JEWS, <hi>&amp;c.</hi>
+            </head>
+            <p>THere came lately to my view, a Libel which did pennance in a ſheet, (as I am informed its Author did once, doubtleſs for ſome of his good qualities upon the pillory) intituled, <hi>The Caſe of the Jews ſtated, or their Synagogues opened.</hi> A man would admire to finde ſo much venome in the body of ſo little a Spider; but what can be more poiſonous than the blood of a red haired man? This Scriblers pen was once filled with malice and ſlander as black as his ink; yet God ſends curſe Cows ſhort Horns, and 'tis in vain for ſuch Wolves to bark a<g ref="char:EOLhyphen"/>gainſt the Moon. As this Fellows heart is filled with envy and malice; ſo his noddle is as well gifted with a goodly talent of beaſtly ignorance, which he betrayes at the firſt daſh, when he would needs have the Archi-Syna<g ref="char:EOLhyphen"/>gogues to be Levites and Prophets; whereas the Levites are one certain Tribe, and the Archi-Synagogue neither were alwayes choſen out of that Tribe, nor conſtantly Prophets. In the next place he picks out a ridiculous fa<g ref="char:EOLhyphen"/>ble out of <hi>Matthew Paris,</hi> which relates the crucifixion of ſome children by the Jews: 'tis a likely matter, that the Jews ſhould firſt circumciſe a Child to make him a Jew, and then murder him; or, that in ſuch their enterprizes, they ſhould cauſe one to repreſent <hi>Pilate,</hi> when none of them that I ever ſpake with, believe there was any ſuch perſon; beſides this <hi>Hebraeo-Maſtix</hi> ſhould (if he would have had his ſtory credited) have beſtowed ſome Hebrew name on his child, rather than <hi>Jurnin.</hi> We do not deny,
+<pb n="2" facs="tcp:206442:3"/> but ſome ſuch things were father'd upon the Jews, as alſo poiſoning of Wells about the time they were expelled, but who I beſeech you were the actors of theſe crimes? none but the Monks and Friers, men, who beſides their practice of Necromancy and other unlawful Arts, did frequently murder children in their Monaſteries, to keep their unclean converſation from the knowledge of the world, they moved by envy at the proſperity of the Jews, crucified Children, and poiſoned Wells that laying the blame upon the Jews, they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ght provoke the hatred of the common people toward<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, and alſo to have matter where-with<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r which to com<g ref="char:EOLhyphen"/>pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in of them to the King that they might pr<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e from him their B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>niſhment, for which they h d l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g time before very earneſtly, though in vain, ſolicited <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, as Mr. <hi>Daniel</hi> ſheweth, whoſe excellent pen hath ſet forth very much of the injurious dealing and cruelties uſed to<g ref="char:EOLhyphen"/>wards the Jews; from the guilt of which, I beſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch the Lord to abſolve this Generation, &amp; give us good hearts towards his poor afflicted people, who are therefore diſ<g ref="char:EOLhyphen"/>perſed amongſt us, that we may have occaſion for the exerciſe of mercy and hoſpitality; and becauſe Almighty God will try whether we will like ſavage Canibals devour ſtrangers, or with good <hi>Abraham</hi> and <hi>Lot,</hi> receive them kindly into our houſes. This fellow ſays moreover (for though <hi>Iupiters</hi> brain could produce but one <hi>Minerva</hi> his whimſical noddle can hatch a thouſand Chymaeraes of folly) that the Jews were enjoyed by a Statute to wear a piece of woollen Cloath upon their breſts<g ref="char:punc">▪</g> that they might be thereby diſtinguiſh'd, but he tells us not in what time this Statute was enacted; ſo that we muſt let it re<g ref="char:EOLhyphen"/>main <hi>Apocripha</hi> till we have leaſure to ſearch, and then I doubt it will be canoniz'd, <hi>nemine contra dicente,</hi> amongſt the reſt of his lyes. But that which I moſt blame in this
+<pb n="3" facs="tcp:206442:3"/> Companion, is, that he goes about by a ſecret way to inſtruct <hi>(ſic ſus Minervam docet)</hi> the ſupreme Authority what is to be done; for his preſumption intends this Patch as a preſident for them, and flatters himſelf that it may prove a <hi>Remora</hi> to their favourable proceedings in the Jewiſh affairs. But admit the Jews were commanded to wear ſuch a badge of diſtinction formerly in <hi>England,</hi> as now they are at <hi>Rome,</hi> cauſed to wear Hats of a different colour from others: muſt the ſame meaſure be uſed to<g ref="char:EOLhyphen"/>wards theſe Jews in theſe times, and under this moſt ex<g ref="char:EOLhyphen"/>cellent Government? muſt we imitate Papiſts in uſing ſtrangers to whom we give harbor deſpitefully? doth this man finde it in the Goſpel, that we muſt do good to thoſe who perſecute us, and will he perſecute thoſe who do him no hurt? is this to aſſert the Kingdom of Chriſt? truely it is rather the myſtery of iniquity, and the voice of an Antichriſt: there is no reaſon for this pretence, a<g ref="char:EOLhyphen"/>gainſt it there is; for ſhould the Jews have Re-admit<g ref="char:EOLhyphen"/>tance here, it would behove many of them, and ſome very eminent perſons, who have been forc'd to diſſemble their Religion among the Papiſts, to keep themſelves ſtill in ſome ſort ſecret (which they cannot do if they may be known by their Garments, leſt the Jeſuitical ſpies, which are here, ſhould ſend intelligence of them beyond Sea, and upon their account cauſe their Friends in <hi>Spain</hi> and <hi>Portugal,</hi> and in ſome parts of <hi>Italy,</hi> where the Inquiſition is, as in <hi>Millain,</hi> to be called in queſtion.</p>
+            <p>In the next place, it would grieve one to ſee how the pitiful thing doth ſtretch his ſlender wits upon the tentor-books to muſter up the Jews Ceremonies, Prayers, and Benedictions uſed in their Synagogues, which he hath borrowed ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Purchaſes Pilgrimage,</hi> or <hi>Roſſe</hi> his <hi>View of Religions,</hi> (who took them upon truſt themſelves) but if
+<pb n="4" facs="tcp:206442:4"/> he had met with <hi>Leo Modena's</hi> Book of <hi>the Manners and Cuſtomes of the Jews<g ref="char:punc">▪</g>
+               </hi> tranſlated by Mr. <hi>Edmund Chilmead,</hi> he might have been better informed, however we muſt take it at his hand, as men buy wares at the third and fourth Mart, with all the ſophiſtications; ſo that it may he ſaid of him in reſpect of his Pamphlet, as one ſaid of <hi>Homer</hi> in regard of his Iliades.</p>
+            <p>And thus he lyes, thus mingle falſe with true. 'Tis true that many of thoſe Bleſſings and Ceremonies are indeed uſed by the Jews, for which they are not to be blamed by him or any other: but when he would perſwade people by the opening and ſhutting of Heavens Gates, that the Jews believe God hath need of reſt or ſleep, or ſhunneth importunities, <hi>riſum teneatis amici?</hi> And ſince I read the ſtory of his Cock, I profeſs I never ſaw a Cock, but I thought of him for a Coxcomb when he comes to the privy he paddles to the very throat in ſtinking lyes, and there we will leave him to play the Gold-finder, for 'tis a place much fitter for him, than the Pulpit: onely we muſt take ſome notice of his malicious aſſertion, That the Jews conſtantly curſe the Chriſtians in their Aſſem<g ref="char:EOLhyphen"/>blies, <hi>cujus contrarium verum eſt:</hi> for in their dayly prayers they beſeech God for the peace of thoſe Nations among whom they live, and for the honour, ſafty, and increaſe of the power of the Prince under whoſe protection they are; as may more largly appear in a Declaration ſet forth lately by that learned Jewiſh Doctor <hi>Menaſſeh ben Iſrael,</hi> which might have ſtopt this Fellows mouth, and pre<g ref="char:EOLhyphen"/>vented his ugly, miſhap'd, abortive, unlick'd Cub from creeping into the view of the world, if his bruitiſh Sire had not been wholly made up of folly and impudence.</p>
+            <p>Whereas he mentions laſcivious Motto's (as he calls them) placed in the houſes of the Jews, it is utterly falſe;
+<pb n="5" facs="tcp:206442:4"/> or ſhould any lewd perſons of them (and it ſeem, his ac<g ref="char:EOLhyphen"/>quaintance was only of that ſort, if he knew any Jews at all) ſet up any ſuch Ribauldry in their rooms, the gra<g ref="char:EOLhyphen"/>ver ſort, who do frequently viſit the houſes of the reſt, would tear it down; and for my own particular, I have been in the houſes of many Jews, but never ſaw any ſuch thing: the only Ornaments they uſe for their walls are Pi<g ref="char:EOLhyphen"/>ctures repreſenting Bible-Hiſtories. Suppoſe he had ſeen ſome ſuch Motto's in the houſes of ſome idely diſpoſed perſon amongſt the Jews, is it not a madneſs in him to chargethe whole nation with it? ſome of all nations and religions are bad, muſt therefore all the men in the world be ſo? if men did not conſider the time when his paper came out, they would think Mid-ſummer Moon did o<g ref="char:EOLhyphen"/>perate in this Fellow's Pate. In the rear of all he brings up that of the Apoſtle <hi>Paul</hi> in 1 <hi>Cor. cap. ult. v.</hi> 22. <hi>If any man love not the Lord Jeſus Chriſt, let him be Anathema, Mari<g ref="char:EOLhyphen"/>natha.</hi> But he ſhould have remembred, that the Apoſtle ſpeaketh here neither of, nor to the Jews, but concerning ſuch as <hi>Alexander,</hi> and <hi>Hymeneus, Simon Magus,</hi> and his Followers, who were apoſtatized Chriſtians; for <hi>Paul</hi> doth elſewhere expound himſelf, and affirm, That the Church hath no power to puniſh by Excommunication or Anathematization, ſuch as alwayes were out of the pale, but ſuch only as having been once within the pale, have departed out of it. To this all the Fathers and Do<g ref="char:EOLhyphen"/>ctors of the primitive Church aſſent; for none can have due voc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion to puniſh, but thoſe to whom the offender oweth ſubjection. In this reſpect the renowned Repub<g ref="char:EOLhyphen"/>lik of <hi>Venice,</hi> together with all the moſt learned Civili<g ref="char:EOLhyphen"/>ans of Chriſtendome, have judged it unfit that the ſecu<g ref="char:EOLhyphen"/>lar Magiſtrate ſhould take any notice of any eccleſiaſtical cenſures denounced againſt ſuch as never were ſubject to
+<pb n="6" facs="tcp:206442:5"/> the Church, as may be ſeen more fully in the Hiſtory of the Inquiſition, compiled by that able States-man and judicious Lawyer, <hi>Paul Serveta,</hi> an Italian Frier.</p>
+            <p>Thus (gentle Reader) have I vindicated the honorable Nation of the Jews from the fowl aſperſions of a black-mouth'd ſlanderer; which, if I have done with ſome ſharp<g ref="char:EOLhyphen"/>neſs, it is but what his folly hath merited. In the mean time, I hope no ingenious Perſon will think a rod ill be<g ref="char:EOLhyphen"/>ſtowed upon a Fools back: but if ever he diſplay his fol<g ref="char:EOLhyphen"/>ly again upon the ſame ſubject, (as I look he will, for a fool will be never the wiſer, though brayed in a morter) inſtead of a Rod, I will ſend him </p>
+            <lg>
+               <l>A rope, with which the ſilly elf</l>
+               <l>Shall make a nooſe, and hang himſelf.</l>
+            </lg>
+            <p>I could have inlarged, in ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wing the many commodi<g ref="char:EOLhyphen"/>ties the Jews would bring to this Commonwealth, their adherency formerly to the Parliament of <hi>England,</hi> and their great affection to the preſent Government, and par<g ref="char:EOLhyphen"/>ticularly to his Highneſs the Lord Protector, (whoſe Pa<g ref="char:EOLhyphen"/>tronage they do more deſire than that of any other Prince in Chriſtendome) but that it hath been done already ſuf<g ref="char:EOLhyphen"/>ficiently by an abler Pen, I mean that of <hi>Menaſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h ben Iſra<g ref="char:EOLhyphen"/>el,</hi> the Hebrew Doctor. Therefore I ſhall conclude, be<g ref="char:EOLhyphen"/>ſeeching Almighty God to give to all thoſe that are right in heart, the fruition of thoſe good things promiſed under the reign of the Prince of peace, whoſe coming is dayly expected and hope to be at hand by many good Chriſtians.</p>
+            <q>O that the Salvation of Iſrael were come out of Sion: when the Lord bringeth back the captivity of his people, Jacob ſhall re<g ref="char:EOLhyphen"/>joyce, and Iſrael ſhall be glad,
+<bibl>
+                  <hi>Pſal. 14.7.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
